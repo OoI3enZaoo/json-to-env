@@ -72,6 +72,16 @@ const ConvertJson: React.FC = () => {
           className="mt-1 block w-full sm:text-sm border border-gray-300 rounded-md"
         />
       </div>
+      <div className="mt-6">
+        <a
+          href="https://github.com/OoI3enZaoo/json-to-env"
+          target="_blank"
+          rel="noreferrer"
+          className="text-indigo-600 hover:text-indigo-500"
+        >
+          Visit the GitHub Repository
+        </a>
+      </div>
     </div>
   );
 };
